@@ -1,0 +1,718 @@
+hf 14a reader
+hf mfu dump
+quit
+hf mfu wrbl -b 4 -d 00000000
+hf mfu wrbl -b 5 -d 00000000
+hf mfu wrbl -b 6 -d 00000000
+hf mfu wrbl -b 7 -d 00000000
+hf mfu wrbl -b 8 -d 00000000
+hf mfu wrbl -b 9 -d 00000000
+hf mfu wrbl -b 10 -d 00000000
+hf mfu wrbl -b 11 -d 00000000
+hf mfu wrbl -b 12 -d 00000000
+hf mfu wrbl -b 13 -d 00000000
+hf mfu wrbl -b 14 -d 00000000
+hf mfu wrbl -b 15 -d 00000000
+hf mfu wrbl -b 16 -d 00000000
+hf mfu wrbl -b 17 -d 00000000
+hf mfu wrbl -b 18 -d 00000000
+hf mfu wrbl -b 19 -d 00000000
+hf mfu wrbl -b 20 -d 00000000
+hf mfu wrbl -b 21 -d 00000000
+hf mfu wrbl -b 22 -d 00000000
+hf mfu wrbl -b 23 -d 00000000
+hf mfu wrbl -b 24 -d 00000000
+hf mfu wrbl -b 25 -d 00000000
+hf mfu wrbl -b 26 -d 00000000
+hf mfu wrbl -b 27 -d 00000000
+hf mfu wrbl -b 28 -d 00000000
+hf mfu wrbl -b 29 -d 00000000
+hf mfu wrbl -b 30 -d 00000000
+hf mfu wrbl -b 31 -d 00000000
+hf mfu wrbl -b 32 -d 00000000
+hf mfu wrbl -b 33 -d 00000000
+hf mfu wrbl -b 34 -d 00000000
+hf mfu wrbl -b 35 -d 00000000
+hf mfu wrbl -b 36 -d 00000000
+hf mfu wrbl -b 37 -d 00000000
+hf mfu wrbl -b 38 -d 00000000
+hf mfu wrbl -b 39 -d 00000000
+quit
+hf mfu wrbl -b 4 -d 52414141
+hf mfu wrbl -b 5 -d 41414848
+hf mfu wrbl -b 6 -d 48000000
+quit
+hf mfu dump
+quit
+hf 14a reader
+hf mfu wrbl -b 4 -d 00000000
+hf mfu wrbl -b 5 -d 00000000
+hf mfu wrbl -b 6 -d 00000000
+hf mfu wrbl -b 7 -d 00000000
+hf mfu wrbl -b 8 -d 00000000
+hf mfu wrbl -b 9 -d 00000000
+hf mfu wrbl -b 10 -d 00000000
+hf mfu wrbl -b 11 -d 00000000
+hf mfu wrbl -b 12 -d 00000000
+hf mfu wrbl -b 13 -d 00000000
+hf mfu wrbl -b 14 -d 00000000
+hf mfu wrbl -b 15 -d 00000000
+hf mfu wrbl -b 16 -d 00000000
+hf mfu wrbl -b 17 -d 00000000
+hf mfu wrbl -b 18 -d 00000000
+hf mfu wrbl -b 19 -d 00000000
+hf mfu wrbl -b 20 -d 00000000
+hf mfu wrbl -b 21 -d 00000000
+hf mfu wrbl -b 22 -d 00000000
+hf mfu wrbl -b 23 -d 00000000
+hf mfu wrbl -b 24 -d 00000000
+hf mfu wrbl -b 25 -d 00000000
+hf mfu wrbl -b 26 -d 00000000
+hf mfu wrbl -b 27 -d 00000000
+hf mfu wrbl -b 28 -d 00000000
+hf mfu wrbl -b 29 -d 00000000
+hf mfu wrbl -b 30 -d 00000000
+hf mfu wrbl -b 31 -d 00000000
+hf mfu wrbl -b 32 -d 00000000
+hf mfu wrbl -b 33 -d 00000000
+hf mfu wrbl -b 34 -d 00000000
+hf mfu wrbl -b 35 -d 00000000
+hf mfu wrbl -b 36 -d 00000000
+hf mfu wrbl -b 37 -d 00000000
+hf mfu wrbl -b 38 -d 00000000
+hf mfu wrbl -b 39 -d 00000000
+quit
+hf mfu wrbl -b 4 -d 54494D20
+hf mfu wrbl -b 5 -d 524F5454
+hf mfu wrbl -b 6 -d 454E4E45
+hf mfu wrbl -b 7 -d 47474552
+hf mfu wrbl -b 8 -d 20495320
+hf mfu wrbl -b 9 -d 424C4544
+quit
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu wrbl -b 4 -d 00000000
+hf mfu wrbl -b 5 -d 00000000
+hf mfu wrbl -b 6 -d 00000000
+hf mfu wrbl -b 7 -d 00000000
+hf mfu wrbl -b 8 -d 00000000
+hf mfu wrbl -b 9 -d 00000000
+hf mfu wrbl -b 10 -d 00000000
+hf mfu wrbl -b 11 -d 00000000
+hf mfu wrbl -b 12 -d 00000000
+hf mfu wrbl -b 13 -d 00000000
+hf mfu wrbl -b 14 -d 00000000
+hf mfu wrbl -b 15 -d 00000000
+hf mfu wrbl -b 16 -d 00000000
+hf mfu wrbl -b 17 -d 00000000
+hf mfu wrbl -b 18 -d 00000000
+hf mfu wrbl -b 19 -d 00000000
+hf mfu wrbl -b 20 -d 00000000
+hf mfu wrbl -b 21 -d 00000000
+hf mfu wrbl -b 22 -d 00000000
+hf mfu wrbl -b 23 -d 00000000
+hf mfu wrbl -b 24 -d 00000000
+hf mfu wrbl -b 25 -d 00000000
+hf mfu wrbl -b 26 -d 00000000
+hf mfu wrbl -b 27 -d 00000000
+hf mfu wrbl -b 28 -d 00000000
+hf mfu wrbl -b 29 -d 00000000
+hf mfu wrbl -b 30 -d 00000000
+hf mfu wrbl -b 31 -d 00000000
+hf mfu wrbl -b 32 -d 00000000
+hf mfu wrbl -b 33 -d 00000000
+hf mfu wrbl -b 34 -d 00000000
+hf mfu wrbl -b 35 -d 00000000
+hf mfu wrbl -b 36 -d 00000000
+hf mfu wrbl -b 37 -d 00000000
+hf mfu wrbl -b 38 -d 00000000
+hf mfu wrbl -b 39 -d 00000000
+quit
+hf mfu wrbl -b 4 -d 46494C41
+hf mfu wrbl -b 5 -d 4D454E54
+hf mfu wrbl -b 6 -d 3A20504C
+hf mfu wrbl -b 7 -d 410A434F
+hf mfu wrbl -b 8 -d 4C4F523A
+hf mfu wrbl -b 9 -d 20524544
+hf mfu wrbl -b 10 -d 0A574549
+hf mfu wrbl -b 11 -d 4748543A
+hf mfu wrbl -b 12 -d 20313030
+hf mfu wrbl -b 13 -d 6B670000
+quit
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu wrbl -b 4 -d 00000000
+hf mfu wrbl -b 5 -d 00000000
+hf mfu wrbl -b 6 -d 00000000
+hf mfu wrbl -b 7 -d 00000000
+hf mfu wrbl -b 8 -d 00000000
+hf mfu wrbl -b 9 -d 00000000
+hf mfu wrbl -b 10 -d 00000000
+hf mfu wrbl -b 11 -d 00000000
+hf mfu wrbl -b 12 -d 00000000
+hf mfu wrbl -b 13 -d 00000000
+hf mfu wrbl -b 14 -d 00000000
+hf mfu wrbl -b 15 -d 00000000
+hf mfu wrbl -b 16 -d 00000000
+hf mfu wrbl -b 17 -d 00000000
+hf mfu wrbl -b 18 -d 00000000
+hf mfu wrbl -b 19 -d 00000000
+hf mfu wrbl -b 20 -d 00000000
+hf mfu wrbl -b 21 -d 00000000
+hf mfu wrbl -b 22 -d 00000000
+hf mfu wrbl -b 23 -d 00000000
+hf mfu wrbl -b 24 -d 00000000
+hf mfu wrbl -b 25 -d 00000000
+hf mfu wrbl -b 26 -d 00000000
+hf mfu wrbl -b 27 -d 00000000
+hf mfu wrbl -b 28 -d 00000000
+hf mfu wrbl -b 29 -d 00000000
+hf mfu wrbl -b 30 -d 00000000
+hf mfu wrbl -b 31 -d 00000000
+hf mfu wrbl -b 32 -d 00000000
+hf mfu wrbl -b 33 -d 00000000
+hf mfu wrbl -b 34 -d 00000000
+hf mfu wrbl -b 35 -d 00000000
+hf mfu wrbl -b 36 -d 00000000
+hf mfu wrbl -b 37 -d 00000000
+hf mfu wrbl -b 38 -d 00000000
+hf mfu wrbl -b 39 -d 00000000
+quit
+hf mfu wrbl -b 4 -d 686A6B6C
+hf mfu wrbl -b 5 -d 6B6A6C6B
+hf mfu wrbl -b 6 -d 6C376A6C
+quit
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu wrbl -b 4 -d 00000000
+hf mfu wrbl -b 5 -d 00000000
+hf mfu wrbl -b 6 -d 00000000
+hf mfu wrbl -b 7 -d 00000000
+hf mfu wrbl -b 8 -d 00000000
+hf mfu wrbl -b 9 -d 00000000
+hf mfu wrbl -b 10 -d 00000000
+hf mfu wrbl -b 11 -d 00000000
+hf mfu wrbl -b 12 -d 00000000
+hf mfu wrbl -b 13 -d 00000000
+hf mfu wrbl -b 14 -d 00000000
+hf mfu wrbl -b 15 -d 00000000
+hf mfu wrbl -b 16 -d 00000000
+hf mfu wrbl -b 17 -d 00000000
+hf mfu wrbl -b 18 -d 00000000
+hf mfu wrbl -b 19 -d 00000000
+hf mfu wrbl -b 20 -d 00000000
+hf mfu wrbl -b 21 -d 00000000
+hf mfu wrbl -b 22 -d 00000000
+hf mfu wrbl -b 23 -d 00000000
+hf mfu wrbl -b 24 -d 00000000
+hf mfu wrbl -b 25 -d 00000000
+hf mfu wrbl -b 26 -d 00000000
+hf mfu wrbl -b 27 -d 00000000
+hf mfu wrbl -b 28 -d 00000000
+hf mfu wrbl -b 29 -d 00000000
+hf mfu wrbl -b 30 -d 00000000
+hf mfu wrbl -b 31 -d 00000000
+hf mfu wrbl -b 32 -d 00000000
+hf mfu wrbl -b 33 -d 00000000
+hf mfu wrbl -b 34 -d 00000000
+hf mfu wrbl -b 35 -d 00000000
+hf mfu wrbl -b 36 -d 00000000
+hf mfu wrbl -b 37 -d 00000000
+hf mfu wrbl -b 38 -d 00000000
+hf mfu wrbl -b 39 -d 00000000
+quit
+hf mfu wrbl -b 4 -d 68656C6C
+hf mfu wrbl -b 5 -d 6F20776F
+hf mfu wrbl -b 6 -d 726C6400
+quit
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu wrbl -b 4 -d 00000000
+hf mfu wrbl -b 5 -d 00000000
+hf mfu wrbl -b 6 -d 00000000
+hf mfu wrbl -b 7 -d 00000000
+hf mfu wrbl -b 8 -d 00000000
+hf mfu wrbl -b 9 -d 00000000
+hf mfu wrbl -b 10 -d 00000000
+hf mfu wrbl -b 11 -d 00000000
+hf mfu wrbl -b 12 -d 00000000
+hf mfu wrbl -b 13 -d 00000000
+hf mfu wrbl -b 14 -d 00000000
+hf mfu wrbl -b 15 -d 00000000
+hf mfu wrbl -b 16 -d 00000000
+hf mfu wrbl -b 17 -d 00000000
+hf mfu wrbl -b 18 -d 00000000
+hf mfu wrbl -b 19 -d 00000000
+hf mfu wrbl -b 20 -d 00000000
+hf mfu wrbl -b 21 -d 00000000
+hf mfu wrbl -b 22 -d 00000000
+hf mfu wrbl -b 23 -d 00000000
+hf mfu wrbl -b 24 -d 00000000
+hf mfu wrbl -b 25 -d 00000000
+hf mfu wrbl -b 26 -d 00000000
+hf mfu wrbl -b 27 -d 00000000
+hf mfu wrbl -b 28 -d 00000000
+hf mfu wrbl -b 29 -d 00000000
+hf mfu wrbl -b 30 -d 00000000
+hf mfu wrbl -b 31 -d 00000000
+hf mfu wrbl -b 32 -d 00000000
+hf mfu wrbl -b 33 -d 00000000
+hf mfu wrbl -b 34 -d 00000000
+hf mfu wrbl -b 35 -d 00000000
+hf mfu wrbl -b 36 -d 00000000
+hf mfu wrbl -b 37 -d 00000000
+hf mfu wrbl -b 38 -d 00000000
+hf mfu wrbl -b 39 -d 00000000
+quit
+hf mfu wrbl -b 4 -d 68616920
+hf mfu wrbl -b 5 -d 62726500
+quit
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu wrbl -b 4 -d 00000000
+hf mfu wrbl -b 5 -d 00000000
+hf mfu wrbl -b 6 -d 00000000
+hf mfu wrbl -b 7 -d 00000000
+hf mfu wrbl -b 8 -d 00000000
+hf mfu wrbl -b 9 -d 00000000
+hf mfu wrbl -b 10 -d 00000000
+hf mfu wrbl -b 11 -d 00000000
+hf mfu wrbl -b 12 -d 00000000
+hf mfu wrbl -b 13 -d 00000000
+hf mfu wrbl -b 14 -d 00000000
+hf mfu wrbl -b 15 -d 00000000
+hf mfu wrbl -b 16 -d 00000000
+hf mfu wrbl -b 17 -d 00000000
+hf mfu wrbl -b 18 -d 00000000
+hf mfu wrbl -b 19 -d 00000000
+hf mfu wrbl -b 20 -d 00000000
+hf mfu wrbl -b 21 -d 00000000
+hf mfu wrbl -b 22 -d 00000000
+hf mfu wrbl -b 23 -d 00000000
+hf mfu wrbl -b 24 -d 00000000
+hf mfu wrbl -b 25 -d 00000000
+hf mfu wrbl -b 26 -d 00000000
+hf mfu wrbl -b 27 -d 00000000
+hf mfu wrbl -b 28 -d 00000000
+hf mfu wrbl -b 29 -d 00000000
+hf mfu wrbl -b 30 -d 00000000
+hf mfu wrbl -b 31 -d 00000000
+hf mfu wrbl -b 32 -d 00000000
+hf mfu wrbl -b 33 -d 00000000
+hf mfu wrbl -b 34 -d 00000000
+hf mfu wrbl -b 35 -d 00000000
+hf mfu wrbl -b 36 -d 00000000
+hf mfu wrbl -b 37 -d 00000000
+hf mfu wrbl -b 38 -d 00000000
+hf mfu wrbl -b 39 -d 00000000
+quit
+hf mfu wrbl -b 4 -d 54455354
+hf mfu wrbl -b 5 -d 20414141
+hf mfu wrbl -b 6 -d 41414141
+hf mfu wrbl -b 7 -d 41414141
+hf mfu wrbl -b 8 -d 41414141
+hf mfu wrbl -b 9 -d 41414141
+hf mfu wrbl -b 10 -d 41414141
+hf mfu wrbl -b 11 -d 41414141
+hf mfu wrbl -b 12 -d 41414141
+hf mfu wrbl -b 13 -d 41414141
+hf mfu wrbl -b 14 -d 41414141
+hf mfu wrbl -b 15 -d 41414141
+hf mfu wrbl -b 16 -d 41414141
+hf mfu wrbl -b 17 -d 41414141
+hf mfu wrbl -b 18 -d 41414141
+hf mfu wrbl -b 19 -d 41414141
+hf mfu wrbl -b 20 -d 41484848
+hf mfu wrbl -b 21 -d 48484848
+hf mfu wrbl -b 22 -d 48484848
+hf mfu wrbl -b 23 -d 48484848
+hf mfu wrbl -b 24 -d 48484848
+hf mfu wrbl -b 25 -d 48484848
+hf mfu wrbl -b 26 -d 48484848
+hf mfu wrbl -b 27 -d 48484848
+hf mfu wrbl -b 28 -d 48484848
+hf mfu wrbl -b 29 -d 48484848
+hf mfu wrbl -b 30 -d 48484848
+hf mfu wrbl -b 31 -d 48484848
+hf mfu wrbl -b 32 -d 48484848
+hf mfu wrbl -b 33 -d 48484848
+hf mfu wrbl -b 34 -d 48484848
+hf mfu wrbl -b 35 -d 48484848
+hf mfu wrbl -b 36 -d 48484848
+hf mfu wrbl -b 37 -d 48484848
+hf mfu wrbl -b 38 -d 48484848
+hf mfu wrbl -b 39 -d 48484848
+quit
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf mfu wrbl -b 4 -d 00000000
+hf mfu wrbl -b 5 -d 00000000
+hf mfu wrbl -b 6 -d 00000000
+hf mfu wrbl -b 7 -d 00000000
+hf mfu wrbl -b 8 -d 00000000
+hf mfu wrbl -b 9 -d 00000000
+hf mfu wrbl -b 10 -d 00000000
+hf mfu wrbl -b 11 -d 00000000
+hf mfu wrbl -b 12 -d 00000000
+hf mfu wrbl -b 13 -d 00000000
+hf mfu wrbl -b 14 -d 00000000
+hf mfu wrbl -b 15 -d 00000000
+hf mfu wrbl -b 16 -d 00000000
+hf mfu wrbl -b 17 -d 00000000
+hf mfu wrbl -b 18 -d 00000000
+hf mfu wrbl -b 19 -d 00000000
+hf mfu wrbl -b 20 -d 00000000
+hf mfu wrbl -b 21 -d 00000000
+hf mfu wrbl -b 22 -d 00000000
+hf mfu wrbl -b 23 -d 00000000
+hf mfu wrbl -b 24 -d 00000000
+hf mfu wrbl -b 25 -d 00000000
+hf mfu wrbl -b 26 -d 00000000
+hf mfu wrbl -b 27 -d 00000000
+hf mfu wrbl -b 28 -d 00000000
+hf mfu wrbl -b 29 -d 00000000
+hf mfu wrbl -b 30 -d 00000000
+hf mfu wrbl -b 31 -d 00000000
+hf mfu wrbl -b 32 -d 00000000
+hf mfu wrbl -b 33 -d 00000000
+hf mfu wrbl -b 34 -d 00000000
+hf mfu wrbl -b 35 -d 00000000
+hf mfu wrbl -b 36 -d 00000000
+hf mfu wrbl -b 37 -d 00000000
+hf mfu wrbl -b 38 -d 00000000
+hf mfu wrbl -b 39 -d 00000000
+quit
+hf mfu wrbl -b 4 -d 41414141
+hf mfu wrbl -b 5 -d 41414141
+hf mfu wrbl -b 6 -d 41414141
+hf mfu wrbl -b 7 -d 41414141
+hf mfu wrbl -b 8 -d 41414141
+hf mfu wrbl -b 9 -d 41414141
+hf mfu wrbl -b 10 -d 41414141
+hf mfu wrbl -b 11 -d 41414141
+hf mfu wrbl -b 12 -d 41414141
+hf mfu wrbl -b 13 -d 41414141
+hf mfu wrbl -b 14 -d 41414141
+hf mfu wrbl -b 15 -d 41414141
+hf mfu wrbl -b 16 -d 41414141
+hf mfu wrbl -b 17 -d 41414141
+hf mfu wrbl -b 18 -d 41414141
+hf mfu wrbl -b 19 -d 41414141
+hf mfu wrbl -b 20 -d 41414141
+hf mfu wrbl -b 21 -d 41414141
+hf mfu wrbl -b 22 -d 41414141
+hf mfu wrbl -b 23 -d 41414141
+hf mfu wrbl -b 24 -d 41414141
+hf mfu wrbl -b 25 -d 41414141
+hf mfu wrbl -b 26 -d 41414141
+hf mfu wrbl -b 27 -d 41414141
+hf mfu wrbl -b 28 -d 41414141
+hf mfu wrbl -b 29 -d 41414141
+hf mfu wrbl -b 30 -d 41414141
+hf mfu wrbl -b 31 -d 41414141
+hf mfu wrbl -b 32 -d 41414141
+hf mfu wrbl -b 33 -d 41414141
+hf mfu wrbl -b 34 -d 41414141
+hf mfu wrbl -b 35 -d 41414141
+hf mfu wrbl -b 36 -d 41414141
+hf mfu wrbl -b 37 -d 41414141
+hf mfu wrbl -b 38 -d 41414141
+hf mfu wrbl -b 39 -d 41414141
+quit
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf mfu wrbl -b 4 -d 00000000
+hf mfu wrbl -b 5 -d 00000000
+hf mfu wrbl -b 6 -d 00000000
+hf mfu wrbl -b 7 -d 00000000
+hf mfu wrbl -b 8 -d 00000000
+hf mfu wrbl -b 9 -d 00000000
+hf mfu wrbl -b 10 -d 00000000
+hf mfu wrbl -b 11 -d 00000000
+hf mfu wrbl -b 12 -d 00000000
+hf mfu wrbl -b 13 -d 00000000
+hf mfu wrbl -b 14 -d 00000000
+hf mfu wrbl -b 15 -d 00000000
+hf mfu wrbl -b 16 -d 00000000
+hf mfu wrbl -b 17 -d 00000000
+hf mfu wrbl -b 18 -d 00000000
+hf mfu wrbl -b 19 -d 00000000
+hf mfu wrbl -b 20 -d 00000000
+hf mfu wrbl -b 21 -d 00000000
+hf mfu wrbl -b 22 -d 00000000
+hf mfu wrbl -b 23 -d 00000000
+hf mfu wrbl -b 24 -d 00000000
+hf mfu wrbl -b 25 -d 00000000
+hf mfu wrbl -b 26 -d 00000000
+hf mfu wrbl -b 27 -d 00000000
+hf mfu wrbl -b 28 -d 00000000
+hf mfu wrbl -b 29 -d 00000000
+hf mfu wrbl -b 30 -d 00000000
+hf mfu wrbl -b 31 -d 00000000
+hf mfu wrbl -b 32 -d 00000000
+hf mfu wrbl -b 33 -d 00000000
+hf mfu wrbl -b 34 -d 00000000
+hf mfu wrbl -b 35 -d 00000000
+hf mfu wrbl -b 36 -d 00000000
+hf mfu wrbl -b 37 -d 00000000
+hf mfu wrbl -b 38 -d 00000000
+hf mfu wrbl -b 39 -d 00000000
+quit
+hf mfu wrbl -b 4 -d 46494C41
+hf mfu wrbl -b 5 -d 4D454E54
+hf mfu wrbl -b 6 -d 3A205045
+hf mfu wrbl -b 7 -d 54470A43
+hf mfu wrbl -b 8 -d 4F4C4F52
+hf mfu wrbl -b 9 -d 3A205452
+hf mfu wrbl -b 10 -d 414E5350
+hf mfu wrbl -b 11 -d 4152454E
+hf mfu wrbl -b 12 -d 540A5745
+hf mfu wrbl -b 13 -d 49474854
+hf mfu wrbl -b 14 -d 3A205449
+hf mfu wrbl -b 15 -d 4D452052
+hf mfu wrbl -b 16 -d 4F545445
+hf mfu wrbl -b 17 -d 4E535445
+hf mfu wrbl -b 18 -d 494E4552
+quit
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu wrbl -b 4 -d 00000000
+hf mfu wrbl -b 5 -d 00000000
+hf mfu wrbl -b 6 -d 00000000
+hf mfu wrbl -b 7 -d 00000000
+hf mfu wrbl -b 8 -d 00000000
+hf mfu wrbl -b 9 -d 00000000
+hf mfu wrbl -b 10 -d 00000000
+hf mfu wrbl -b 11 -d 00000000
+hf mfu wrbl -b 12 -d 00000000
+hf mfu wrbl -b 13 -d 00000000
+hf mfu wrbl -b 14 -d 00000000
+hf mfu wrbl -b 15 -d 00000000
+hf mfu wrbl -b 16 -d 00000000
+hf mfu wrbl -b 17 -d 00000000
+hf mfu wrbl -b 18 -d 00000000
+hf mfu wrbl -b 19 -d 00000000
+hf mfu wrbl -b 20 -d 00000000
+hf mfu wrbl -b 21 -d 00000000
+hf mfu wrbl -b 22 -d 00000000
+hf mfu wrbl -b 23 -d 00000000
+hf mfu wrbl -b 24 -d 00000000
+hf mfu wrbl -b 25 -d 00000000
+hf mfu wrbl -b 26 -d 00000000
+hf mfu wrbl -b 27 -d 00000000
+hf mfu wrbl -b 28 -d 00000000
+hf mfu wrbl -b 29 -d 00000000
+hf mfu wrbl -b 30 -d 00000000
+hf mfu wrbl -b 31 -d 00000000
+hf mfu wrbl -b 32 -d 00000000
+hf mfu wrbl -b 33 -d 00000000
+hf mfu wrbl -b 34 -d 00000000
+hf mfu wrbl -b 35 -d 00000000
+hf mfu wrbl -b 36 -d 00000000
+hf mfu wrbl -b 37 -d 00000000
+hf mfu wrbl -b 38 -d 00000000
+hf mfu wrbl -b 39 -d 00000000
+quit
+hf mfu wrbl -b 4 -d 46494C41
+hf mfu wrbl -b 5 -d 4D454E54
+hf mfu wrbl -b 6 -d 3A20504C
+hf mfu wrbl -b 7 -d 410A434F
+hf mfu wrbl -b 8 -d 4C4F523A
+hf mfu wrbl -b 9 -d 2047414C
+hf mfu wrbl -b 10 -d 4158590A
+hf mfu wrbl -b 11 -d 57454947
+hf mfu wrbl -b 12 -d 48543A20
+hf mfu wrbl -b 13 -d 32206B67
+quit
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu wrbl -b 4 -d 00000000
+hf mfu wrbl -b 5 -d 00000000
+hf mfu wrbl -b 6 -d 00000000
+hf mfu wrbl -b 7 -d 00000000
+hf mfu wrbl -b 8 -d 00000000
+hf mfu wrbl -b 9 -d 00000000
+hf mfu wrbl -b 10 -d 00000000
+hf mfu wrbl -b 11 -d 00000000
+hf mfu wrbl -b 12 -d 00000000
+hf mfu wrbl -b 13 -d 00000000
+hf mfu wrbl -b 14 -d 00000000
+hf mfu wrbl -b 15 -d 00000000
+hf mfu wrbl -b 16 -d 00000000
+hf mfu wrbl -b 17 -d 00000000
+hf mfu wrbl -b 18 -d 00000000
+hf mfu wrbl -b 19 -d 00000000
+hf mfu wrbl -b 20 -d 00000000
+hf mfu wrbl -b 21 -d 00000000
+hf mfu wrbl -b 22 -d 00000000
+hf mfu wrbl -b 23 -d 00000000
+hf mfu wrbl -b 24 -d 00000000
+hf mfu wrbl -b 25 -d 00000000
+hf mfu wrbl -b 26 -d 00000000
+hf mfu wrbl -b 27 -d 00000000
+hf mfu wrbl -b 28 -d 00000000
+hf mfu wrbl -b 29 -d 00000000
+hf mfu wrbl -b 30 -d 00000000
+hf mfu wrbl -b 31 -d 00000000
+hf mfu wrbl -b 32 -d 00000000
+hf mfu wrbl -b 33 -d 00000000
+hf mfu wrbl -b 34 -d 00000000
+hf mfu wrbl -b 35 -d 00000000
+hf mfu wrbl -b 36 -d 00000000
+hf mfu wrbl -b 37 -d 00000000
+hf mfu wrbl -b 38 -d 00000000
+hf mfu wrbl -b 39 -d 00000000
+quit
+hf mfu wrbl -b 4 -d 46494C41
+hf mfu wrbl -b 5 -d 4D454E54
+hf mfu wrbl -b 6 -d 3A20504C
+hf mfu wrbl -b 7 -d 41000000
+quit
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf mfu wrbl -b 4 -d 00000000
+hf mfu wrbl -b 5 -d 00000000
+hf mfu wrbl -b 6 -d 00000000
+hf mfu wrbl -b 7 -d 00000000
+hf mfu wrbl -b 8 -d 00000000
+hf mfu wrbl -b 9 -d 00000000
+hf mfu wrbl -b 10 -d 00000000
+hf mfu wrbl -b 11 -d 00000000
+hf mfu wrbl -b 12 -d 00000000
+hf mfu wrbl -b 13 -d 00000000
+hf mfu wrbl -b 14 -d 00000000
+hf mfu wrbl -b 15 -d 00000000
+hf mfu wrbl -b 16 -d 00000000
+hf mfu wrbl -b 17 -d 00000000
+hf mfu wrbl -b 18 -d 00000000
+hf mfu wrbl -b 19 -d 00000000
+hf mfu wrbl -b 20 -d 00000000
+hf mfu wrbl -b 21 -d 00000000
+hf mfu wrbl -b 22 -d 00000000
+hf mfu wrbl -b 23 -d 00000000
+hf mfu wrbl -b 24 -d 00000000
+hf mfu wrbl -b 25 -d 00000000
+hf mfu wrbl -b 26 -d 00000000
+hf mfu wrbl -b 27 -d 00000000
+hf mfu wrbl -b 28 -d 00000000
+hf mfu wrbl -b 29 -d 00000000
+hf mfu wrbl -b 30 -d 00000000
+hf mfu wrbl -b 31 -d 00000000
+hf mfu wrbl -b 32 -d 00000000
+hf mfu wrbl -b 33 -d 00000000
+hf mfu wrbl -b 34 -d 00000000
+hf mfu wrbl -b 35 -d 00000000
+hf mfu wrbl -b 36 -d 00000000
+hf mfu wrbl -b 37 -d 00000000
+hf mfu wrbl -b 38 -d 00000000
+hf mfu wrbl -b 39 -d 00000000
+quit
+hf mfu wrbl -b 4 -d 4252414E
+hf mfu wrbl -b 5 -d 443A2042
+hf mfu wrbl -b 6 -d 616D6275
+hf mfu wrbl -b 7 -d 204C6162
+hf mfu wrbl -b 8 -d 0A46494C
+hf mfu wrbl -b 9 -d 414D454E
+hf mfu wrbl -b 10 -d 543A2050
+hf mfu wrbl -b 11 -d 4554470A
+hf mfu wrbl -b 12 -d 434F4C4F
+hf mfu wrbl -b 13 -d 523A2047
+hf mfu wrbl -b 14 -d 414C4158
+hf mfu wrbl -b 15 -d 590A5745
+hf mfu wrbl -b 16 -d 49474854
+hf mfu wrbl -b 17 -d 3A203138
+hf mfu wrbl -b 18 -d 35302067
+hf mfu wrbl -b 19 -d 72616D73
+hf mfu wrbl -b 20 -d 0A574845
+hf mfu wrbl -b 21 -d 52452057
+hf mfu wrbl -b 22 -d 494C4C20
+hf mfu wrbl -b 23 -d 49542042
+hf mfu wrbl -b 24 -d 45205354
+hf mfu wrbl -b 25 -d 4F524544
+hf mfu wrbl -b 26 -d 3A204452
+hf mfu wrbl -b 27 -d 59000000
+quit
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit
+hf 14a reader
+hf mfu dump
+quit

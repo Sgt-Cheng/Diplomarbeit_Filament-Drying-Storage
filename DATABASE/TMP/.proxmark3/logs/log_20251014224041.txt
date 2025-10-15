@@ -1,0 +1,73 @@
+[+] loaded `/home/stopp/proxmark3/diplomarbeit/DATABASE/TMP/.proxmark3/preferences.json`
+[+] Using UART port /dev/ttyACM0
+[+] Communicating with PM3 over USB-CDC
+[usb|script] pm3 --> hf mfu dump
+[+] TYPE: NTAG UNKNOWN
+[+] Reading tag memory...
+
+[=] MFU dump file information
+[=] -------------------------------------------------------------
+[=] Version..... 0F FF 04 02 01 00 0F 03 
+[=] TBD 0....... 00 00 
+[=] TBD 1....... 00 
+[=] Signature... 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+[=]              00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+[=] Counter 0... 00 00 00 
+[=] Tearing 0... 00 
+[=] Counter 1... 00 00 00 
+[=] Tearing 1... 00 
+[=] Counter 2... 00 00 00 
+[=] Tearing 2... 00 
+[=] Max data page... 41 ( 168 bytes )
+[=] Header size..... 56 bytes
+
+[=] -------------------------------------------------------------
+[=] block#   | data        |lck| ascii
+[=] ---------+-------------+---+------
+[=]   0/0x00 | FF 0F C4 BC |   | ....
+[=]   1/0x01 | CA D3 00 00 |   | ....
+[=]   2/0x02 | 19 48 00 00 |   | .H..
+[=]   3/0x03 | E1 10 12 00 | 0 | ....
+[=]   4/0x04 | 42 52 41 4E | 0 | BRAN
+[=]   5/0x05 | 44 3A 20 42 | 0 | D: B
+[=]   6/0x06 | 61 6D 62 75 | 0 | ambu
+[=]   7/0x07 | 20 4C 61 62 | 0 |  Lab
+[=]   8/0x08 | 0A 46 49 4C | 0 | .FIL
+[=]   9/0x09 | 41 4D 45 4E | 0 | AMEN
+[=]  10/0x0A | 54 3A 20 50 | 0 | T: P
+[=]  11/0x0B | 45 54 47 0A | 0 | ETG.
+[=]  12/0x0C | 43 4F 4C 4F | 0 | COLO
+[=]  13/0x0D | 52 3A 20 47 | 0 | R: G
+[=]  14/0x0E | 41 4C 41 58 | 0 | ALAX
+[=]  15/0x0F | 59 0A 57 45 | 0 | Y.WE
+[=]  16/0x10 | 49 47 48 54 | ? | IGHT
+[=]  17/0x11 | 3A 20 31 38 | ? | : 18
+[=]  18/0x12 | 35 30 20 67 | ? | 50 g
+[=]  19/0x13 | 72 61 6D 73 | ? | rams
+[=]  20/0x14 | 0A 57 48 45 | ? | .WHE
+[=]  21/0x15 | 52 45 20 57 | ? | RE W
+[=]  22/0x16 | 49 4C 4C 20 | ? | ILL 
+[=]  23/0x17 | 49 54 20 42 | ? | IT B
+[=]  24/0x18 | 45 20 53 54 | ? | E ST
+[=]  25/0x19 | 4F 52 45 44 | ? | ORED
+[=]  26/0x1A | 3A 20 44 52 | ? | : DR
+[=]  27/0x1B | 59 00 00 00 | ? | Y...
+[=]  28/0x1C | 00 00 00 00 | ? | ....
+[=]  29/0x1D | 00 00 00 00 | ? | ....
+[=]  30/0x1E | 00 00 00 00 | ? | ....
+[=]  31/0x1F | 00 00 00 00 | ? | ....
+[=]  32/0x20 | 00 00 00 00 | ? | ....
+[=]  33/0x21 | 00 00 00 00 | ? | ....
+[=]  34/0x22 | 00 00 00 00 | ? | ....
+[=]  35/0x23 | 00 00 00 00 | ? | ....
+[=]  36/0x24 | 00 00 00 00 | ? | ....
+[=]  37/0x25 | 00 00 00 00 | ? | ....
+[=]  38/0x26 | 00 00 00 00 | ? | ....
+[=]  39/0x27 | 00 00 00 00 | ? | ....
+[=]  40/0x28 | 00 00 00 BD | ? | ....
+[=]  41/0x29 | 00 00 00 FF | ? | ....
+[=] ---------------------------------
+[=] Using UID as filename
+[+] Saved 224 bytes to binary file `/home/stopp/proxmark3/diplomarbeit/DATABASE/TMP/hf-mfu-FF0FC4CAD30000-dump-002.bin`
+[+] Saved to json file /home/stopp/proxmark3/diplomarbeit/DATABASE/TMP/hf-mfu-FF0FC4CAD30000-dump-002.json
+[usb|script] pm3 --> quit
